@@ -58,9 +58,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [How to install and deploy a website to Firebase Hosting](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr#firebase)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+- [Understanding ERROR 254](https://answers.netlify.com/t/i-got-error-code-254-and-i-dont-know-how-to-fix-it/51192/3)
 
 ## Contact
 
