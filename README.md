@@ -49,7 +49,7 @@ This Project was my first attempt to the mobile first approach, and the first ti
 
 
 <details>
-<summary>Other screenshots</summary>
+<summary align="center">Other screenshots</summary>
 <br>
 <div display=flex>
 
