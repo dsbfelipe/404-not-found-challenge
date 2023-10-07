@@ -47,6 +47,23 @@ This Project was my first attempt to the mobile first approach, and the first ti
 - Plain CSS
 - HTML
 
+
+<details>
+<summary>Other screenshots</summary>
+<br>
+<div display=flex>
+
+  ![Tablet screenshot](/screenshots/screenshot-ipad.png)
+  Screenshot for iPad screen size
+
+  <br>
+
+  ![Mobile screenshot](/screenshots/screenshot-mobile.png)
+  Screenshot for smartphones screen sizes
+
+</div>
+</details>
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
