@@ -1,6 +1,10 @@
 <!-- Please update value in the {}  -->
 
 <h1 align="center">404 Page Not Found</h1>
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+
+<br>
+<br>
 
 <div align="center">
    Solution for a challenge from  <a href="http://legacy.devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -49,7 +53,7 @@ This Project was my first attempt to the mobile first approach, and the first ti
 
 
 <details>
-<summary align="center">Other screenshots</summary>
+<summary>Other screenshots</summary>
 <br>
 <div display=flex>
 
