@@ -58,7 +58,7 @@ This Project was my first attempt to the mobile first approach, and the first ti
 
   <br>
 
-  ![Mobile screenshot](/screenshots/screenshot-mobile.png)
+  ![Mobile screenshot](/screenshots/screenshot-mobile.png)<br>
   Screenshot for smartphones screen sizes
 
 </div>
